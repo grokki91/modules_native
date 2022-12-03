@@ -1,0 +1,23 @@
+{
+  "name": "modules_native",
+  "version": "1.0.0",
+  "description": "modules_native",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grokki91/modules_native.git"
+  },
+  "author": "Pavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grokki91/modules_native/issues"
+  },
+  "homepage": "https://github.com/grokki91/modules_native#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
